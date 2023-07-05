@@ -1,5 +1,5 @@
 <h1 align="center">
-⚡️AI Short
+⚡️ChatGPT Mask
 </h1>
 <p align="center">
     <a href="./README-en.md">English</a> | <a href="./README.md">中文</a> | 日本語 | <a href="./README-ko.md">한국어</a>
