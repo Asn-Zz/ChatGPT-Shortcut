@@ -46,7 +46,7 @@ import styles from "./styles.module.css";
 
 const TITLE = translate({
   message:
-    "AiShort (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts",
+    "ChatGPT Mask - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts",
 });
 const DESCRIPTION = translate({
   message: "让生产力加倍的 ChatGPT 快捷指令",
